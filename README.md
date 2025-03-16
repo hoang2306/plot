@@ -7,3 +7,6 @@ how to use
 * insert data: 2 metrics Recall & NDCG, each metrics of each datasets stored in dictionary: values_recall_pog = {
     'Pog': [0.0293, 0.0332, 0.0375]
 }
+
+file
+* plot.ipynb: visualize result of each dataset separately in one figure
