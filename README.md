@@ -9,4 +9,5 @@ this is repo, which contain notebook for visualize result
 }
 
 ### structure file
-* plot.ipynb: visualize result of each dataset separately in one figure
+* plot.ipynb: visualize result of each dataset separately in one figure (barchart plot)
+* plot_v2.ipynb: advanced version, which can plot all datasets in one figure (barchart plot)
